@@ -1,0 +1,20 @@
+{
+	"id": "Forge",
+	"name": "F.O.R.G.E",
+	"version": "0.0.1",
+	"author": "NoBODY",
+	"description": "Pla plaaaa plapalappallaaaaaa",
+	"gameVersion": "0.98a-RC8",
+	"jars": ["jars/XXXXX.jar"],
+	"modPlugin": "org.XXXX.XXXX",
+	"dependencies": [
+		{
+			"id": "lw_lazylib",
+			"name": "LazyLib"
+		},
+		{
+			"id": "lunalib",
+			"name": "LunaLib"
+		}
+	]
+}
